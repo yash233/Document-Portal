@@ -47,4 +47,10 @@ git push
 git clone <link>
 ```
 
-## Testing for seconf commit
+### minimum requirement
+1. LLM Model ## groq(free), openai(paid), gemini(15 days free), claude(paid), huggingface(Free), ollama     (local setup)
+
+2. Embedding Model ## openai, hf, gemini,
+
+3. Vector database ## in memory ## on disk ## cloud based
+
