@@ -1,0 +1,1 @@
+-e git+https://github.com/yash233/Document-Portal.git@8874e754ce5c165bfe8be17db99b1719d6ac1c20#egg=document_portal
