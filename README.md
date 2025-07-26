@@ -1,6 +1,6 @@
 ## commands needed to follow
 
-## below command is for MacOS(terminal)
+## below command is for MacOS( terminal )
 ```
 mkdir <project_folder_name>
 ```
@@ -8,7 +8,6 @@ mkdir <project_folder_name>
 ```
 cd <project_folder_name>
 ```
-
 
 ```
 code .
